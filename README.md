@@ -1,6 +1,7 @@
 
  # Projeto Integrador: Sistema de Gestão de Cursos para Cooperativas
 
+
 ## Visão Geral
 
 O projeto consistiu no desenvolvimento de um protótipo de uma plataforma completo para a gestão eficiente de cursos oferecidos por cooperativas. Utilizando tecnologias modernas, o sistema visa facilitar desde o cadastro inicial dos cursos até a geração de relatórios detalhados de desempenho e frequência dos participantes.
@@ -40,7 +41,9 @@ Disponibilizei uma pasta aqui onde você poderá ter acesso ao:
 - Pitch 
 <br>
 
-Todos na pasta:  Projeto Integrador - Assistente administrativo Senai Volta Redoda
+Todos na pasta:  Projeto Integrador - Assistente administrativo Senai Volta Redonda ou através deste link:
+https://drive.google.com/drive/folders/1PZVm80iZq7MzcAcMIgn2MsRfVknOA3ci?usp=drive_link
+
 
 
 ## Contribuições
